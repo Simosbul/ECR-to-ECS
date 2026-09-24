@@ -41,4 +41,4 @@ jobs:
           aws ecs update-service \
             --cluster ecs-demo-cluster \
             --service ecs-demo \
-            --force-new-deployment
+            --force-new-deployment 
